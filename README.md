@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Thinh
-
+## 👋 Hi, I'm Thinh! 
+🔭 I’m a 4th-year student of IT Faculty at HCMUS
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vo-thinh-7921b123b) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:thinhvdv@gmail.com)
 
